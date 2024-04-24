@@ -4,12 +4,6 @@
 ![Stack Overflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/9985521)
 ![GitHub followers](https://img.shields.io/github/followers/alduncanson)
 
-## About me
-
-Currently I work as a software engineer at [Mutually Human](https://github.com/mhs), in my free time I like to dabble in open source.
-
-### Some of my open source projects
-
 #### [React Hooks Snippets](https://marketplace.visualstudio.com/items?itemName=AlDuncanson.react-hooks-snippets)
 
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/AlDuncanson.react-hooks-snippets)
@@ -48,3 +42,6 @@ Currently I work as a software engineer at [Mutually Human](https://github.com/m
 ## Some of my favorite tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,npm,ruby,rails,bun,linux,arch,figma,git,github,heroku,md,mongo,postgres,nextjs,vim,neovim,postman,py,react,supabase,tailwind,vscode)](https://skillicons.dev)
+
+## Support my work
+<a href="https://www.buymeacoffee.com/alduncanson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
