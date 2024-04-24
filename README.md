@@ -4,10 +4,23 @@
 ![Stack Overflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/9985521)
 ![GitHub followers](https://img.shields.io/github/followers/alduncanson)
 
+## Here are some of my open source projects
+
+#### [Copycat](https://alduncanson.github.io/Copycat/)
+
+![Chrome Web Store users](https://img.shields.io/chrome-web-store/users/gdfhhdijmhnmgpjpifkdnmajomaaceng)
+![GitHub stars](https://img.shields.io/github/stars/alDuncanson/Copycat)
+![Chrome Web Store rating](https://img.shields.io/chrome-web-store/rating/gdfhhdijmhnmgpjpifkdnmajomaaceng)
+
+> A Chrome extension for managing your clipboard history
+
+<img alt="Search and filter in Copycat" src="https://github.com/alDuncanson/Copycat/raw/main/content/search.gif" height="500">
+
 #### [React Hooks Snippets](https://marketplace.visualstudio.com/items?itemName=AlDuncanson.react-hooks-snippets)
 
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/AlDuncanson.react-hooks-snippets)
 ![GitHub Repo stars](https://img.shields.io/github/stars/alduncanson/react-hooks-snippets)
+![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/stars/AlDuncanson.react-hooks-snippets)
 
 > A VS Code extension that provides snippets for [React Hooks](https://react.dev/reference/react/hooks)
 
