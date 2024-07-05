@@ -4,6 +4,9 @@
 ![Stack Overflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/9985521)
 ![GitHub followers](https://img.shields.io/github/followers/alduncanson)
 
+## Articles
+- [Port Forwarding: A Software Engineer's Guide](https://www.linkedin.com/pulse/port-forwarding-software-engineers-guide-al-duncanson-zuj8e/)
+
 ## Here are some of my open source projects
 
 #### [Copycat](https://alduncanson.github.io/Copycat/)
