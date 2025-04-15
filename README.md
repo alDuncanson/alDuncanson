@@ -19,9 +19,7 @@ Starting to write now and then at [alduncanson.com](https://alduncanson.com/).
 
 ## Code
 
-Check out my open source and free (libre) software [repositories](https://github.com/alDuncanson?tab=repositories).
-
-All of my software is either licensed under [GNU's General Public License](https://www.gnu.org/licenses/gpl-3.0.html), or is in the process of being migrated over to [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html).
+Check out my open source software [repositories](https://github.com/alDuncanson?tab=repositories).
 
 I pinned a few of my favorite or most active projects below.
 
