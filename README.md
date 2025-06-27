@@ -11,11 +11,11 @@ This is where I keep my personal and open source software.
 Starting to write now and then at [alduncanson.com](https://alduncanson.com/).
 
 ## Technical articles
-- [Port Forwarding: A Software Engineer's Guide](https://alduncanson.com/port-forwarding)
-- [Secrets Management](https://alduncanson.com/secrets-management)
-- [O11y: Observability in software](https://alduncanson.com/observability-in-software)
-- [O11y on Rails](https://alduncanson.com/o11y-on-rails)
-- [Self-hosted Observability](https://alduncanson.com/self-hosting-my-observability-platform)
+- [Port Forwarding: A Software Engineer's Guide](https://www.linkedin.com/pulse/port-forwarding-software-engineers-guide-al-duncanson-zuj8e)
+- [Secrets Management](https://www.linkedin.com/pulse/secrets-management-al-duncanson-hj3ue)
+- [O11y: Observability in software](https://www.linkedin.com/pulse/observability-software-al-duncanson-eihae)
+- [O11y on Rails](https://www.linkedin.com/pulse/o11y-rails-al-duncanson-awmfe)
+- [Self-hosted Observability](https://al-duncanson.hashnode.dev/self-hosting-my-observability-platform)
 
 ## Code
 
