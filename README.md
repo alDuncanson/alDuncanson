@@ -1,3 +1,3 @@
 # Hey, I'm Al
 
-Building [Ginseng](https://github.com/alDuncanson/Ginseng).
+Building [Ginseng](https://alduncanson.github.io/Ginseng/).
